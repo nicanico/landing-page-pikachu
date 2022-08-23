@@ -22,6 +22,7 @@ body{
 }
 header{
     background-color: aliceblue;
+    height: 48px;
 
 }
 main{
@@ -29,5 +30,5 @@ main{
     flex-grow: 1;
 }
 footer{
-    background-color: burlywood;    
+    background-color: burlywood;
 }
